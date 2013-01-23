@@ -1,0 +1,15 @@
+{
+    "name": "tea-objdisplay"
+  , "repo": "qualiancy/tea-objdisplay"
+  , "version": "0.0.0"
+  , "description": "Beautiful display of your JSON objects in the console or browser."
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "main": "lib/display.js"
+  , "scripts": [
+        "lib/display.js"
+    ]
+  , "dependencies": {}
+  , "development": {}
+}
